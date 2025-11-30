@@ -1,7 +1,7 @@
 ## Confidentialité / Privacy
 
 Notre politique de confidentialité complète est disponible dans `PRIVACY.md` ou en ligne :  
-🔗 https://github.com/BXBApps/Foodex-legal/blob/main/PRIVACY.md
+🔗 https://github.com/BXBApps/Foodex-legal/blob/main/docs/PRIVACY.md
 
 **Résumé :**
 - L’app demande la permission caméra uniquement pour prendre des photos de plats.  
